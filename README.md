@@ -12,6 +12,9 @@ https://greasyfork.org/ja/scripts/518295-discord-uid-extractor/code
 Manage multi Discord token
 https://greasyfork.org/ja/scripts/523829-manage-multi-discord-accounts/code
 
+# timeout tool
+https://aarr-homepage.github.io/timeout/
+
 # raid tool
 https://aarr-homepage.github.io/page/aboutweb.html
 
